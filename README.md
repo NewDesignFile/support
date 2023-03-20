@@ -15,4 +15,4 @@ To receive the latest discount offers and other major announcements, please [sub
 During the alpha phase, we will provide you with all deliverables via your signup email. Once we launch the beta version, all users with an `Unlimited user license` will be granted access to the master repository.
 
 ### Is it possible to have a custom landing page or app screen design built using the New UI?
-Yes, you can request a custom screen design with an `Unlimited user license`, subject to availability and scope. Let's talk [via email](mailto:contact@new-ui.com) or [Twitter](https://twitter.com/NewDesignFile).
+Yes, you can request a custom screen design with an `Unlimited user license`, subject to availability and scope. Let's talk [via email](mailto:contact@new-ui.com) or [send us a direct message](https://twitter.com/NewDesignFile).
