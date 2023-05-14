@@ -16,7 +16,7 @@ Most of the essential attributes are covered by default:
 - Foundations NPM packages
 
 With the Unlimited User License, you also get:
-- Customized installation
+- Custom installation
 - Free lifetime updates
 - Priority support
 - Unlimited user license
