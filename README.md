@@ -3,17 +3,24 @@
 Have a question? Send an email to [contact@new-ui.com](mailto:contact@new-ui.com)
 
 ## About
-New UI is a full-service design system solution focused on the functionality, simplicity, and timelessness of the interfaces of your apps and websites. Currently, Figma is the only available option.
+New UI is a full-service design system solution focused on the functionality, simplicity, and timelessness of the interfaces of your apps and websites.
 
-Most of the basic attributes are included:
+New UI takes full responsibility for your design needs and provides you with all the foundations you need to scale from zero to millions of users. The best fit for early-stage founders, agencies, or entrepreneurs seeking high quality and scalability for their apps and websites.
+
+Most of the essential attributes are covered by default:
 - Accessibility
 - Token and translation workflows
 - Full responsiveness
 - Theming
-- Automations from Figma to production
+- Automation from Figma to production
+- Foundations NPM packages
 
-New UI takes full responsibility for your design needs and provides you with all the foundations you need to scale from zero to millions of users. The best fit for early-stage founders, agencies, or entrepreneurs seeking high quality and scalability for their apps and websites.
-
+With the Unlimited User License, you also get:
+- Customized installation
+- Free lifetime updates
+- Priority support
+- Unlimited user license
+- Use on unlimited projects
 
 ## FAQs
 
