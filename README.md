@@ -3,17 +3,9 @@
 Have a question? Send an email to [contact@new-ui.com](mailto:contact@new-ui.com)
 
 ## About
-New UI is a comprehensive design system solution that prioritizes functionality, simplicity, and timelessness in your SaaS app interfaces.
+New UI is a comprehensive design system solution that prioritizes functionality, simplicity, and timelessness for your SaaS apps. We take full responsibility for your early-stage design requirements and provide you with all the necessary foundations to scale from zero to millions of users.
 
-New UI takes complete ownership of your early-stage design requirements and provides you with all the necessary foundations to scale from zero to millions of users.
-
-It’s the ideal solution for early-stage founders, agencies, or entrepreneurs seeking high quality and scalability for their SaaS apps. Tailored for:
-
-- Accessibility
-- Token and translation workflows
-- Responsiveness
-- Fast development
-- Easy maintenance
+Ideal for early-stage founders, agencies, and entrepreneurs, New UI offers high-quality, scalable, accessible, responsive, rapidly developed, and easily maintained solutions, empowering you to build your dream SaaS app with ease.
 
 ## FAQs
 
