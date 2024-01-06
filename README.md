@@ -3,9 +3,9 @@
 Have a question? Send an email to [contact@new-ui.com](mailto:contact@new-ui.com)
 
 ## What is New UI?
-New UI is a comprehensive design system solution for SaaS apps, prioritizing simplicity and timelessness. New UI provides a collection of production-ready UI foundations and components to jumpstart your design system. We take full responsibility for your early-stage design needs, providing all the necessary foundations to scale from zero to millions of users.
+New UI is a comprehensive design system solution for SaaS apps, prioritizing simplicity, scalability, and timelessness. We take care of your early-stage product design needs, providing all the necessary UI foundations and components to scale from zero to millions of users.
 
-Ideal for early-stage founders, agencies, and entrepreneurs, New UI offers high-quality, scalable, accessible, responsive, rapidly developed, and easily maintained solutions, empowering you to build your dream SaaS app with ease.
+New UI is ideal for founders, agencies, and entrepreneurs who need high-quality foundations that are easy to customize, well-structured, production-ready, and easy to maintain.
 
 ## Maintainers
 [@planetabhi](https://twitter.com/planetabhi), created and maintains the New UI. This includes the Figma libraries, web components, documentation, templates and more. Dive into our docs for more information and see why adopting the New UI is the future for early-stage founders, agencies, and entrepreneurs.
